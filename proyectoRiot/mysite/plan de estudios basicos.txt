@@ -1,0 +1,5 @@
+curso completo de python en español: https://unipython.com/cursos/curso-python-desde-0/6931-6956
+lugar de descarga de python3: https://www.python.org/downloads/
+recomendado instalar tambien git y crear una cuenta en github para control de versiones
+recomendado usar linux, si no quieres no problem xD jajajajaja
+curso completo y super explicado por el gremio de djangogirls: https://tutorial.djangogirls.org/
